@@ -12,7 +12,7 @@ m.reply(`*تم يحته*`)
 
 handler.help = ['kick @user']
 handler.tags = ['group']
-handler.command = ['kick', 'طرد'] 
+handler.command = ['kick', 'انطر'] 
 handler.admin = true
 handler.group = true
 handler.botAdmin = true
